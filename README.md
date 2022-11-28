@@ -2,9 +2,9 @@
 
 ### Features
 
+- Used Asynchrous version of Binancev3 rest api for fetching of data and live streaming of data.
+- Built an ML model using Gradient boosting, Random Forests, KNN in sklearn and numba.
 
-### Setup
-Recommended to use virtual environment to run the files not required.
 ```
 
 # install dependencies
